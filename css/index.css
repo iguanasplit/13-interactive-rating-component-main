@@ -141,7 +141,7 @@ h2 {
 
     max-width: min(19rem, 100%);
     
-    min-height: 23rem;
+    min-height: 24rem;
     background-color: var(--Dark-Blue);
 
     overflow-wrap: break-word;
